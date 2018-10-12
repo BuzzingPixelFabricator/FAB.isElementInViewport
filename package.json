@@ -1,0 +1,24 @@
+{
+    "name": "fab.isElementInViewport",
+    "version": "1.0.0",
+    "description": "Check if an element is visible in the viewport",
+    "homepage": "https://github.com/BuzzingPixelFabricator/FAB.isElementInViewport",
+    "bugs": "https://github.com/BuzzingPixelFabricator/FAB.isElementInViewport/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BuzzingPixelFabricator/FAB.isElementInViewport.git"
+    },
+    "license": "Apache-2.0",
+    "author": "BuzzingPixel, LLC",
+    "contributors": [
+        {
+            "name": "TJ Draper",
+            "url": "https://buzzingpixel.com"
+        }
+    ],
+    "fabricatorJsBuild": {
+        "files": [
+            "src/FAB.isElementInViewport.js"
+        ]
+    }
+}
