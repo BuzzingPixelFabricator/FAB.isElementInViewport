@@ -1,5 +1,5 @@
 {
-    "name": "fab.isElementInViewport",
+    "name": "fab.is-element-in-viewport",
     "version": "1.0.0",
     "description": "Check if an element is visible in the viewport",
     "homepage": "https://github.com/BuzzingPixelFabricator/FAB.isElementInViewport",
